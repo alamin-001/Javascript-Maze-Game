@@ -11,12 +11,11 @@ You can **play the game online** here: [Snack Man! on GitHub Pages](https://alam
 ## Table of Contents
 
 - [Features](#features)  
-- [Gameplay](#gameplay)  
-- [Installation](#installation)  
+- [Gameplay](#gameplay)   
 - [Controls](#controls)  
-- [Leaderboard](#leaderboard)  
-- [Game Mechanics](#game-mechanics)  
 - [Customization](#customization)  
+- [License](#license)
+- [Installation](#installation) 
 
 ---
 
@@ -44,9 +43,30 @@ You can **play the game online** here: [Snack Man! on GitHub Pages](https://alam
 
 ---
 
+## Controls
+
+- Keyboard: Arrow keys to move.
+
+- On-Screen Buttons: ⬆️⬇️⬅️➡️ .
+
+- Game Buttons: Start, Pause, Resume, Restart.
+
+---
+
+## Customization
+
+- Modify the maze array in script.js for custom layouts.
+
+- Adjust CSS in styles.css to change visuals.
+
+- Change difficulty using enemyAmount and enemySpeed.
+
+---
 ## Installation
 
 1. Clone or download the repository:
 
 ```bash
 git clone https://github.com/alamin-001/Javascript-Maze-Game.git
+
+
